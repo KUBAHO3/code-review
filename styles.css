@@ -5,3 +5,16 @@ body {
     line-height: 1.4;
    
 }
+
+#intro{
+    padding-top: 20%;
+}
+#welcome-section{
+    background-color: #303841;
+}
+#projects{
+    background-color: #45567d;
+}
+#project-title{
+    text-decoration: underline;
+}
