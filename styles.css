@@ -18,3 +18,18 @@ body {
 #project-title{
     text-decoration: underline;
 }
+.card-body{
+    background-color: #303841;
+}
+.card-text{
+    color: white;
+}
+#footer{
+    background-color: #303841;
+}
+.here:hover {
+	background-color: #45567d;
+}
+a{
+    text-decoration: none;
+}
